@@ -15,8 +15,7 @@ advances research specifically for SARS-CoV-2. All tools are free to use and ava
 through web applications or public code repositories
 Introduction :
 On 31 December 2019, the Wuhan Municipal Health Commission reported several cases of pneumonia in 
-Wuhan (China) to the World Health Organization (https://www.who.int/csr/don/ 05-january-2020-
-pneumonia-of-unkown-cause-china/en/). The cause of these cases was a previously unknown coronavirus, 
+Wuhan (China) to the World Health Organization (https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/). The cause of these cases was a previously unknown coronavirus, 
 now known as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which can manifest itself in 
 the disease named COVID-19. At the time of writing (22 July 2020), nearly 15 million cases were reported 
 worldwide, with over 600 000 deaths (https://www.who.int/docs/default-source/coronaviruse/situationreports/20200722-covid-19-sitrep-184.pdf). The group of Coronaviridae includes viruses with very long RNA 
