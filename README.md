@@ -19,7 +19,7 @@ Wuhan (China) to the World Health Organization (https://www.who.int/csr/don/ 05-
 pneumonia-of-unkown-cause-china/en/). The cause of these cases was a previously unknown coronavirus, 
 now known as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which can manifest itself in 
 the disease named COVID-19. At the time of writing (22 July 2020), nearly 15 million cases were reported 
-worldwide, with over 600 000 deaths (https://www.who.int/docs/default-source/coronaviruse/ situationreports/20200722-covid-19-sitrep-184.pdf). The group of Coronaviridae includes viruses with very long RNA 
+worldwide, with over 600 000 deaths (https://www.who.int/docs/default-source/coronaviruse/situationreports/20200722-covid-19-sitrep-184.pdf). The group of Coronaviridae includes viruses with very long RNA 
 genomes up to 33 000 nucleotides. SARS-CoV-2 belongs to the Sarbecovirus subgenus (genus: 
 Betacoronavirus) and has a genome of approximately 30 000 nucleotides. In line with other members of 
 Coronaviridae, SARS-CoV-2 has four main structural proteins: spike (S), envelope (E), membrane (M) and 
